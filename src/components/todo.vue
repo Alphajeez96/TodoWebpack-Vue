@@ -52,7 +52,7 @@
     </div>
     <section class="sec">
 
-                <p>To do App By Prince Chukwudire <br>
+                <p class="textl">To do App By Prince Chukwudire <br>
                     Double Click to edit a Task <br>
                     Use The ESC key to return a previous <br>
                     task while Editing. <br>
@@ -176,6 +176,9 @@ export default {
 </script>
 
 <style >
+.textl{
+    text-align: left;
+}
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css');
 

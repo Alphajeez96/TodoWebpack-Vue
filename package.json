@@ -1,3 +1,4 @@
+
 {
   "name": "todo",
   "version": "1.0.0",
@@ -5,9 +6,11 @@
   "author": "prince <chimeremezechukwudire@gmail.com>",
   "private": true,
   "scripts": {
+    
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "build": "node build/build.js"
+   
   },
   "dependencies": {
     "node-sass": "^4.13.0",
@@ -61,3 +64,4 @@
     "not ie <= 8"
   ]
 }
+

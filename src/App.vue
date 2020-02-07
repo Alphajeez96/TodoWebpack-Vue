@@ -1,6 +1,7 @@
 <template>
   <div id="app" class="container">
-    <img src="./assets/logo.png" class="logo">
+    <!-- <img src="./assets/logo.png" class="logo"> -->
+    <h3>Today's Agenda </h3>  
     
     <todo></todo>
   </div>
